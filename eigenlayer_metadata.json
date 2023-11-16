@@ -1,7 +1,7 @@
 {
     "name": "Pier Two",
     "website": "http://piertwo.com/",
-    "description": "Discover Pier Two, Australia's gateway to cutting-edge blockchain technology – join us in shaping the future by staking, where security meets innovation.",
+    "description": "Australian-based enterprise-grade infrastructure for institutional clients. Non-custodial ETH Staking. Secure Node & Validation Services. Creating the light client Lantern (C#).",
     "logo": "https://raw.githubusercontent.com/Pier-Two/eigenlayer/main/PierTwo.png",
     "twitter": "https://twitter.com/piertwo_com"
 }
