@@ -4,5 +4,4 @@
 .terraform.lock.hcl
 terraform.tfstate.backup
 *.txt
-*.json
 *.yaml
